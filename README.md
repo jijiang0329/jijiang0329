@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Tech Elevator as a student
-🌱 I’m currently learning how to become a good web developer
-👯 I’m looking to collaborate on any suggestion on how to start a career in tech
-🤔 I’m looking for help with more and fun projects!
+🌱 I’m currently learning how to become a good software developer
+👯 I’m looking to collaborate on more and fun projects
+🤔 I’m looking for help with any suggestion on how to start a career in tech!
 💬 Ask me about ......(not so sure)
 📫 How to reach me: jacqueline0329@hotmail.com
 😄 Pronouns: she/her/hers
